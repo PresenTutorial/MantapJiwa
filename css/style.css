@@ -30,6 +30,11 @@ body::-webkit-scrollbar-track {
 	background-color: #FFFFFF;
 	box-shadow: 0 0 10px whitesmoke; 
 	z-index: 1;
+	position: fixed;
+	top: 0;
+	left:0;
+	right:0;
+	
 }
 .container h2 {
 	font-family: 'Nunito', sans-serif;
